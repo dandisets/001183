@@ -4,7 +4,7 @@
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.8/context.json
 access:
 - schemaKey: AccessRequirements
-  status: dandi:EmbargoedAccess
+  status: dandi:OpenAccess
 assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
